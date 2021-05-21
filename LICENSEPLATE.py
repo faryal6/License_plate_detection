@@ -57,6 +57,3 @@ text = pytesseract.image_to_string(new_image, config=config)
 print(text)
 
 cv2.waitKey(0)
-
-if text=
-    print("its a car from karachi")
